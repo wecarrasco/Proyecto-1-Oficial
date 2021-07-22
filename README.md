@@ -13,3 +13,4 @@
 5. git push
 6. git pull
 <!-- 13. git commit -am "NOMBRE" -->
+7. git status
